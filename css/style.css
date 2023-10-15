@@ -107,7 +107,7 @@ a {
   background: url(/image/one_блок/Image.png) center/cover no-repeat;
 }
 .header__top {
-  padding-top: 60px;
+  padding-top: 55px;
   display: flex;
   justify-content: space-between;
   align-items: center;
